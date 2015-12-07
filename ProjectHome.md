@@ -1,0 +1,1 @@
+Undump is a Linux tools which takes an ELF core-dump file and its corresponding executable and create a new executable that, upon execution, will start at the same state as the one when the core-dump file was created.
